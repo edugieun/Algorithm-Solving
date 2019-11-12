@@ -1,0 +1,21 @@
+14
+)
+}
+ a
+void main(void) { printf("---(@"); }
+({{)}}
+))
+1132
+A
+({()}gss    {)
+{({(
+{(())
+{
+}
+)
+( )  )
+))))
+()(()())
+print('{} {}'.format(1, 2) () )
+N, M = map(int, input().split()) 
+print('#{} {}'.format(tc, find())
