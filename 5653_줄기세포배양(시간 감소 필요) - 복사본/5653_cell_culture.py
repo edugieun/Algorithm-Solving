@@ -1,5 +1,4 @@
 import sys
-
 sys.stdin = open('input.txt', 'r')
 
 # dx = [0, 1, 0, -1]
@@ -67,17 +66,17 @@ for test in range(testcase):
                 cell_list[cell_life].append((i + K // 2, j + K // 2))
 
     # 4. K시간 동안 for loop를 돌린다.
-    for time in range(1, K + 1):
+    for time in range(K):
         # 4-1. 큰 생명력을 가진 세포부터 확인하며 큰 생명력을 가진 세포가 먼저 배치되도록 한다.
         for v in range(10, 0, -1):
-            # 4-2. 문제에 따르면 생명력이 v인 세포는 time이 (v+1)의 배수일 때 번식한다.
-            # 아래의 조건은 그 배수들을 찾는 조건이다.
-            if time % (v + 1) != 0:
+            # 4-2. 주의할 부분은, 현재 시점(time)에서 다음 시점(time + 1)을 검사하고 배치한다.
+            # 즉, 문제에 따르면 생명력(v)이 1인 세포는 time이 1일 때 번식하는 것이 아니라, 2일 때 번식하게된다.
+            if (time+1) % (v + 1) != 0:
                 continue
             survive_cells = []
             for c in cell_list[v]:
-                # 4-3. 세포의 생명력이 남은 시간(K-time)보다 긴 경우, 최종적으로 그 세포는 생존해 있으므로 추가한다.
-                if (K - time) < (v):
+                # 세포의 생명력이 남은 시간보다 긴 경우, 최종적으로 그 세포는 생존해 있으므로 추가한다.
+                if K - time < v:
                     survive_cells.append(c)
                 for i in range(4):
                     # 이미 세포 배치된 곳은 뛰어넘는다.
