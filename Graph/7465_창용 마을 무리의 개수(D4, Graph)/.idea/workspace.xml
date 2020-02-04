@@ -2,529 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b45e966-58cd-4505-adbf-357e9225104c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/4012_요리사.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/4012_cook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/1. 4012_요리사/sample_input_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/.idea/2597_boj_줄자접기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/2597_boj_tape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/10. 2597_boj_줄자접기/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/.idea/1493_수의 새로운 연산.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/1493_new_cal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/11. 1493_수의 새로운 연산/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/.idea/1974_스도쿠 검증.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/1974_sudoku_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/12. 1974_스도쿠 검증/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/.idea/2805_농작물 수확하기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/2805_harvesting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/13. 2805_농작물 수확하기/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/.idea/5356_의석이의 세로로 말해요.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/5356_vertical_arr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/14. 5356_의석이의 세로로 말해요/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/.idea/1979_어디에 단어가.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/1979_word_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/15. 1979_어디에 단어가/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/.idea/16. 2007_패턴마디의길이.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/2007_pattern_length.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/16. 2007_패턴마디의길이/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/.idea/17. 5789_현주의상자바꾸기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/5789_box_change.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/17. 5789_현주의상자바꾸기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/.idea/2578_빙고.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/2578_bingo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/2. 2578_boj_빙고/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/3. 10815_boj_숫자카드/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/3. 10815_boj_숫자카드/num_card.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/4. 10163_boj_색종이/10163_boj_색종이.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/4. 10163_boj_색종이/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/4408_자기 방으로 돌아가기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/4408_comeback_room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/5. 4408_자기 방으로 돌아가기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/1244_boj_스위치 켜고 끄기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/1244_switch_on_off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/6. 1244_boj_스위치 켜고 끄기/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/7. 5432_쇠막대기 자르기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/5432_cuting_stick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/7. 5432_쇠막대기 자르기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/.idea/8. 2628_boj_종이자르기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/2628_boj_paper_cut.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/8. 2628_boj_종이자르기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/9. 2615_boj_오목.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/2615_omok.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00_추가문제/9. 2615_boj_오목/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/.idea/01_Start(9월09일).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/.idea/1240_단순 2진 암호코드.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/1240_simple_binary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1240_단순 2진 암호코드/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/.idea/1242_암호코드 스캔.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/1242_secret_code_scan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/1242_암호코드 스캔/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/.idea/4366_정식이의 은행업무.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/4366_bank.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/4366_정식이의 은행업무/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/.idea/5185_이진수.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/5185_binary_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5185_이진수/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/.idea/5186_이진수2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/5186_binary2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Start(9월09일)/5186_이진수2/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/.idea/1247_최적_경로.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/1247_opt_route.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/1247_최적_경로/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/.idea/2819_격자판의_숫자_이어_붙이기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/2819_num_paste.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/2819_격자판의_숫자_이어_붙이기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/.idea/3752_가능한_시험_점수.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/3752_exam_score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190930_문제풀이5/3752_가능한_시험_점수/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/.idea/1244_최대 상금.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/1244_max_price.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1244_최대 상금/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/.idea/1861_정사각형 방.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/1861_square_room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/1861_정사각형 방/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/.idea/7465_창용 마을 무리의 개수.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/7465_num_group.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191001_문제풀이6/7465_창용 마을 무리의 개수/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/.idea/모의sw_벌꿀채취.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191002_문제풀이7/모의sw_벌꿀채취/sw_honey_col.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/1808_지희의 고장난 계산기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1808_지희의 고장난 계산기/1808_calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/1952_모의_수영장.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/1952_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/1952_모의_수영장/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/.idea/3234_준환이의 양팔저울.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/3234_balance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../191004_문제풀이8/3234_준환이의 양팔저울/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/5653_줄기세포배양(시간 감소 필요).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/5653_cell_culture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요) - 복사본/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/5653_줄기세포배양(시간 감소 필요).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/5653_cell_culture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5653_줄기세포배양(시간 감소 필요)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/.idea/5643_키 순서.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/5643_height_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Adjacency/5643_키 순서(BFS, Adj)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/.idea/14501_boj_퇴사.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/14501_boj_quit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/14501_boj_퇴사/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/15683_boj_감시.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/15683_boj_surveillance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15683_boj_감시/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/.idea/15686_boj_치킨배달.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/15686_boj_chicken.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/15686_boj_치킨배달/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/17143_boj_낚시왕.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/17143_boj_fishing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/17143_boj_낚시왕/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/.idea/1799_boj_비숍.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/1799_boj_bishop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../A형대비/1799_boj_비숍/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/.idea/1953_탈주범 검거.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/1953_arrest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/1953_탈주범 검거(BFS, Indexing)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/.idea/5656_벽돌 깨기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/5656_brick_break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BFS/5656_벽돌 깨기(BFS)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/.idea/1486_장훈이의 높은 선반.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/1486_high_shelf_re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/1486_장훈이의 높은 선반/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/.idea/5208_전기버스2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/5208_elecbus2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5208_전기버스2/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/.idea/5209_최소 생산 비용.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/5209_min_cost.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Backtraking/5209_최소 생산 비용/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/.idea/1865_동철이의 일 분배.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/1865_work_distribution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/1865_동철이의 일 분배/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/.idea/5188_최소합.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/5188_min_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5188_최소합/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/.idea/5189_전자카트.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/5189_e_cart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BruteForce/5189_전자카트/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/.idea/1949_등산로 조성.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/1949_hiking_trail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/1949_등산로 조성(DFS, Brute)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/.idea/2105_디저트 카페.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/2105_dessert_cafe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/2105_디저트 카페(DFS)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/.idea/4013_특이한 자석.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/4013_unordinary_magnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DFS/4013_특이한 자석(DFS)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/.idea/병합 정렬.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/5204_merge_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5204_병합 정렬/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/.idea/퀵 정렬.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/5202_quick_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5205_퀵 정렬/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/.idea/이진 탐색.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/5207_binary_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DivCon/5207_이진 탐색/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1206_view/1206_view.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1206_view/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1208_Flatten/1208_flatten.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1208_Flatten/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1209_Sum/1209_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1209_Sum/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1259_금속막대/1259_steel_stick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/1259_금속막대/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4012_요리사/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4828_min_max/4828_min_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4828_min_max/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4831_전기버스/elec_but.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4831_전기버스/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/.idea/4834_숫자 카드.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/num_card.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4834_숫자 카드/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4835_구간합/4835_interval_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4835_구간합/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4836_색칠하기/4836_painting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4836_색칠하기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4837_부분집합의 합/4837_subset_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4837_부분집합의 합/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4839_이진탐색/4839_binary_serach.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4839_이진탐색/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4843_특별한 정렬/4843_special_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/4843_특별한 정렬/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/.idea/5356_의석이의 세로로 말해요.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/5356_vertical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/5356_의석이의 세로로 말해요/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber1/bomber1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber1/bomber1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber1/bomber1_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber1/bomber1_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber2/bomber2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber2/bomber2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber2/bomber2_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber2/bomber2_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/.idea/Bomber3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/bomber3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/bomber3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/bomber3_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber3/bomber3_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/.idea/Bomber4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/bomber4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/bomber4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/bomber4_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/Bomber4/bomber4_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/img/bomber1(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/img/bomber2(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/img/bomber3(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/img/bomber4(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../List/Bomber/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/.idea/03_String.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1215_palindrome1/1215_palindrome1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1215_palindrome1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1216_palindrome2/1216_palindrome2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1216_palindrome2/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1221_GNS/1221_GNS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1221_GNS/GNS_test_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1946_간단한압축풀기/1946_simple_unzip.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/1946_간단한압축풀기/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4522_세상의모든팰린드룸/4522_world_palin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4522_세상의모든팰린드룸/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4579_세상의모든팰린드룸2/4579_world_palin2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4579_세상의모든팰린드룸2/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/.idea/4861_palindrome0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/4861_palindrome0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4861_palindrome0/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4864_문자열비교/4864_string_compare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4864_문자열비교/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/4865_글자수.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/4865_num_char.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../String/4865_글자수/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/.idea/2383_점심 식사시간.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/2383_launch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/2383_점심 식사시간(Subset)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/.idea/4012_요리사.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/4012_cook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Subset/4012_요리사(Subset)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/.idea/2001_파리 퇴치.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/2001_fly.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/2001_파리 퇴치/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/.idea/4615_재미있는 오셀로 게임.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/4615_othello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/4615_재미있는 오셀로 게임/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/.idea/5356_의석이의 세로로 말해요.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/5356_vertical_arr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/5356_의석이의 세로로 말해요/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/.idea/6190_정곤이의 단조 증가하는 수.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/6190_monotonic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-1(9월4일)/6190_정곤이의 단조 증가하는 수/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/.idea/문제풀이-2(9월5일).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/.idea/1493_수의 새로운 연산.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/1493_new_cal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1493_수의 새로운 연산/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/.idea/1979_어디에 단어가.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/1979_word_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/1979_어디에 단어가/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/.idea/2005_파스칼의 삼각형.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/2005_pascal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/2005_파스칼의 삼각형/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/.idea/6109_추억의 2048게임.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/6109_game2048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-2(9월5일)/6109_추억의 2048게임/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/.idea/1961_숫자 배열 회전.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/1961_arr_rot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1961_숫자 배열 회전/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/.idea/1974_스도쿠 검증.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/1974_sudoku_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/1974_스도쿠 검증/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/.idea/2805_농작물 수확하기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/2805_harvesting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../문제풀이-3(9월6일)/2805_농작물 수확하기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alogorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alogorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -574,14 +53,43 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2028950347">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/disjoint_sets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6693">
+              <caret line="291" selection-start-line="291" selection-end-line="291" />
             </state>
           </provider>
         </entry>
@@ -604,7 +112,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -614,7 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -626,9 +133,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../algo/pro1" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -651,9 +160,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\multicampus\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disjoint_sets.py" />
@@ -684,8 +193,17 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -693,10 +211,10 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -709,11 +227,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disjoint_sets.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disjoint_sets.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="E" />
+        <watch expression="p" />
+        <watch expression="x" />
+        <watch expression="p[x]" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/disjoint_sets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6693">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
         </state>
       </provider>
     </entry>
