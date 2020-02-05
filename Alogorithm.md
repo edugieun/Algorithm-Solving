@@ -952,6 +952,19 @@ visited = [0] * 8
                 choose.pop()
     
     comb(0, 0)
+    
+    # 조합2(재귀 + 인자전달)
+    def combination(com_arr, start):
+        if len(com_arr) == R:
+            print(com_arr)
+        else:
+            for i in range(start, N):
+                combination(com_arr + [N_arr[i]], i + 1)
+                
+    N = 5
+    R = 3
+    N_arr = [i for i in range(N)]
+    combination([], 0)
     ```
 
 - 중복 순열 ![image](https://user-images.githubusercontent.com/52814897/64934766-073b7600-d888-11e9-8119-f21f134b8f4c.png)
