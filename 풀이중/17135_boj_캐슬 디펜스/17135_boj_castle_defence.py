@@ -1,36 +1,77 @@
 import sys
 sys.stdin = open('input.txt', 'r')
 
-def combination(com_arr, start, left_enermies):
+
+def combination(com_arr, start):
+    global max_kill
+
     if len(com_arr) == R:
-        targets = []
-        for arrow in com_arr:
-            dis_min = 9999999
-            for i in range(len(left_enermies)):
-                dis_row = N+1 - left_enermies[i][0]
-                dis_col = abs(left_enermies[i][1] - arrow)
-                dis = dis_row + dis_col
-                if dis <= D:
-                    if dis < dis_min:
+        deep_copy_enermies = []
+        for i in enermies:
+            deep_copy_enermies.append(i[:])
 
-                    elif dis == dis_min:
-
-        print()
-
-
+        kill = play(com_arr, deep_copy_enermies, 0)
+        if max_kill < kill:
+            max_kill = kill
     else:
-        for i in range(start, N):
-            combination(com_arr + [N_arr[i]], i + 1, left_enermies)
+        for i in range(start, M):
+            combination(com_arr + [M_arr[i]], i + 1)
+
+
+def play(arrows, now_enermies, cnt):
+    deep_copy_now_enermies = []
+
+    for i in now_enermies:
+        deep_copy_now_enermies.append(i[:])
+
+    if not deep_copy_now_enermies:
+        return cnt
+
+    targets = set()
+    for arrow in arrows:
+        target = None
+        for idx, enermy in enumerate(deep_copy_now_enermies):
+            dis_e = abs(N - enermy[0]) + abs(arrow - enermy[1])
+            if dis_e <= D:
+                if target == None:
+                    target = idx
+                    target_dis = dis_e
+                else:
+                    if dis_e < target_dis:
+                        target = idx
+                        target_dis = dis_e
+                    elif dis_e == target_dis and enermy[1] < deep_copy_now_enermies[target][1]:
+                        target = idx
+                        target_dis = dis_e
+        if target != None:
+            targets.add(target)
+
+    # 죽은 적 제거
+    for i in sorted(targets, reverse=True):
+        deep_copy_now_enermies.remove(deep_copy_now_enermies[i])
+        cnt += 1
+    # 적 이동과 탈출한 적 제거
+    numof_enermies = len(deep_copy_now_enermies)
+    for i in range(numof_enermies - 1, -1, -1):
+        if deep_copy_now_enermies[i][0] == (N - 1):
+            deep_copy_now_enermies.remove(deep_copy_now_enermies[i])
+        else:
+            deep_copy_now_enermies[i][0] += 1
+
+    return play(arrows, deep_copy_now_enermies, cnt)
 
 
 N, M, D = map(int, input().split())
 R = 3
 N_matrix = [list(map(int, input().split())) for i in range(N)]
-N_arr = [i for i in range(N)]
+M_arr = [i for i in range(M)]
 enermies = []
 for row in range(N):
     for col in range(M):
         if N_matrix[row][col] == 1:
             enermies.append([row, col])
-combination([], 0, enermies)
-print(enermies)
+
+max_kill = 0
+combination([], 0)
+
+print(max_kill)
