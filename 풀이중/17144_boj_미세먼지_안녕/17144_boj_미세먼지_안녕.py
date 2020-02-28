@@ -24,7 +24,7 @@ while 1:
 
         new_dust = []
         for r, c, m in dust_list:
-            div_m = int(m/5)
+            div_m = m//5
             for dy, dx in D:
                 row_tmp = r + dy
                 col_tmp = c + dx
