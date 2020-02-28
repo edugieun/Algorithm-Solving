@@ -491,10 +491,27 @@ while S:
     for p in permutations(range(3)): # [0, 1, 2] [0, 2, 1] [1, 0, 2] ...
     ```
   - ```python
-    # 직접 만들기
+    # 직접 만들기 - 재귀함수
+    # 매우 느리다.
+    def perm(arr_tmp):
+      global b
+        if len(arr_tmp) == N:
+            b.append(arr_tmp[:])
+            return
     
+        for i in range(N):
+            if not visit[i]:
+                visit[i] = True
+                arr_tmp.append(i)
+                perm(arr_tmp)
+                arr_tmp.pop()
+                visit[i] = False
+    
+    visit = [False] * N
+    b = []
+    perm([])
     ```
-
+    
   - ```python
     def backtrack(a, k, input):
         global MAXCANDIDATES
