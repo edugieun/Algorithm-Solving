@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c2d26e3-91d6-47af-ab8a-d963ed675a8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Alogorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alogorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/17143_boj_낚시왕.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/17143_boj_fishing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Simulation/17143_boj_낚시왕(D4, Simulation)/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/17144_boj_미세먼지_안녕.py" beforeDir="false" afterPath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/17144_boj_미세먼지_안녕.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../17144_boj_미세먼지_안녕/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +16,12 @@
     <session id="-302270963">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,11 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/14888_boj_연산자_끼워넣기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
-              <folding>
-                <marker date="1582855943936" expanded="true" signature="1821:2346" ph="..." />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -107,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +110,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -176,6 +168,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-967" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,20 +217,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/14888_boj_연산자_끼워넣기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14888_boj_연산자_끼워넣기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
-          <folding>
-            <marker date="1582855943936" expanded="true" signature="1821:2346" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
