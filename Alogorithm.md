@@ -166,6 +166,9 @@ for i in range(n):
 
 ### 부분집합
 
+- 멱집합(powerset): 공집합과 자기자신을 포함한 모든 부분집합
+- 부분집합의 개수는 2^n^개
+
 ```python
 arr = [3, 6, 7, 1, 5, 4]
 
@@ -180,7 +183,7 @@ for selection in range(1 << n):
         # (1, 10, 100, 1000 이런식으로..) 
         # selection비트의 1인 부분을 출력
         if selection & (1 << pick): 
-            print(arr[j], end=", ")
+            print(arr[pick], end=", ")
         print()
     print()
 ```
@@ -430,59 +433,52 @@ while S:
 ### 백트래킹(Back-Tracking)
 
 - `깊이우선탐색`은 모든 후보, 경로를 검사
-
 - 반면, `백트래킹`은 불필요한 경로를 조기에 차단.(가지치기: pruning)
   
   - 따라서, 깊이 우선 탐색을 하기에는 경우의 수가 너무 많은 경우(N!의 경우)에 사용
-  
 - 상태 공간 트리
   
   - 시작점을 `root`, 분기되는 갈래를 `node`, 끝단의 단말 node는 `leaf`라고 부름
-  
-- 부분집합 구하기
-  - 멱집합(powerset): 공집합과 자기자신을 포함한 모든 부분집합
-  
-  - 부분집합의 개수는 2^n^개
-  
-  - ```python
-    def backtrack(a, k, input):
-        global MAXCANDIDATES
-        c = [0] * MAXCANDIDATES
-        
-        if k == input:
-            process_solution(a, k)
-        else:
-            k += 1
-            ncandidates = construct_candidates(a, k, input, c)
-            for i in range(ncandidates):
-                a[k] = c[i]
-                backtrack(a, k , input)
+
+```python
+def backtrack(a, k, input):
+    global MAXCANDIDATES
+    c = [0] * MAXCANDIDATES
     
-    def construct_candidates(a, k, input, c):
-        c[0] = True
-        c[1] = False
-        return 2
-    
-    def process_solution(a, k):
-        sum_check = 0
-        empty_string = ''
-        empty_string += '( '
-        for i in range(k+1):
-            if a[i]:
-                sum_check += i
-                empty_string += str(i) + ' '
-        empty_string += ')'
-    
-        if sum_check == 10:
-            print(empty_string)
-    
-    MAXCANDIDATES = 100
-    NMAX = 100
-    a = [0] * NMAX
-    
-    backtrack(a, 0, 10)
-    ```
-  
+    if k == input:
+        process_solution(a, k)
+    else:
+        k += 1
+        ncandidates = construct_candidates(a, k, input, c)
+        for i in range(ncandidates):
+            a[k] = c[i]
+            backtrack(a, k , input)
+
+def construct_candidates(a, k, input, c):
+    c[0] = True
+    c[1] = False
+    return 2
+
+def process_solution(a, k):
+    sum_check = 0
+    empty_string = ''
+    empty_string += '( '
+    for i in range(k+1):
+        if a[i]:
+            sum_check += i
+            empty_string += str(i) + ' '
+    empty_string += ')'
+
+    if sum_check == 10:
+        print(empty_string)
+
+MAXCANDIDATES = 100
+NMAX = 100
+a = [0] * NMAX
+
+backtrack(a, 0, 10)
+```
+
 - 순열 구하기
 
   - ```python
